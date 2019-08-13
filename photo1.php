@@ -8,3 +8,5 @@
 <h2><nav>
 <a href="index.php">Back to Home</a>
 <a href="photo2.php.html">Next Photo</a>
+  </body>
+  </html>
