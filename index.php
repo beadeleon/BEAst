@@ -11,7 +11,7 @@
     <br/>
 <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required><br/> 
-    <button type="submit">Login</button><br/>
+   <a href="pg.html"><button>Sign In</button><br/>
       <label><a href="Reset Password">Reset password</a><br/>
    <label><a href="Sign up">Sign up</a>
 </center>
