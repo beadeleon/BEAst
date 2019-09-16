@@ -2,10 +2,12 @@
 <html>
 <head><center>
     <h2 style="font-family:georgia; color:blue;">Log in </h2>
+      body{
+    background-color:violet;
+    }
 <title> Log in </title>
     </center>
 </head>
-    body{background-color:violet}
 <body><center
 <hr>
 <label for="Username"><b>Username</b></label>
