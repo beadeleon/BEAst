@@ -4,7 +4,9 @@
 <title> Log in </title>
 </head>
 <body><center>
+    <h2 style="font-family:georgia; color:blue;">
 <h1>Log in</h1>
+    </h2>
 <hr>
 <label for="Username"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="Username" required>
