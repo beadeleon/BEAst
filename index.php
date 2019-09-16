@@ -2,7 +2,7 @@
 <html>
 <head><center>
  
-    <h2 style="font-family:georgia; color:sky blue;">Log in </h2>
+    <h2 style="font-family:georgia; color:blue;">Log in </h2>
     <style>
 body {
   background-color:violet;
