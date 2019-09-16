@@ -3,7 +3,11 @@
 <head><center>
  
     <h2 style="font-family:georgia; color:coral;">Log in </h2>
-    
+    <style>
+body {
+  background-color:violet;
+}
+</style>
 <title> Log in </title>
     </center>
 </head>
