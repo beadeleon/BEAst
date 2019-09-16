@@ -1,12 +1,11 @@
 <!Doctype html>
 <html>
 <head>
-    <h2 style="font-family:georgia; color:blue;">
+    <h2 style="font-family:georgia; color:blue;">Log in </h2>
 <title> Log in </title>
-    </h2>
 </head>
 <body><center>
-<h1>Log in</h1>
+
 <hr>
 <label for="Username"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="Username" required>
