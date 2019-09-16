@@ -16,9 +16,9 @@ body {
 <hr>
 <label for="Username"><b>Username</br></label>
     <input type="text" placeholder="Enter Username" name="Username" required>
-    <br/>
+    <br/><br/>
 <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required><br/> <br/>
+    <input type="password" placeholder="Enter Password" name="psw" required><br/>
    <a href="pg.html"><button>Sign In</button><br/><br/>
       <label><a href="Reset.html">Reset password</a><br/><br/>
    <label><a href="Sign up.html">Sign up</a>
