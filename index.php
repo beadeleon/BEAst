@@ -2,8 +2,8 @@
 <html>
 <head><center>
  
-    <h2 style="font-family:georgia; color:pink;">Log in </h2>
-     body {background-color: coral;}
+    <h2 style="font-family:georgia; color:coral;">Log in </h2>
+    
 <title> Log in </title>
     </center>
 </head>
