@@ -7,7 +7,8 @@
 <title> Log in </title>
     </center>
 </head>
-<body><center
+ body {background-color: coral;}
+<body ><center
 <hr>
 <label for="Username"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="Username" required>
