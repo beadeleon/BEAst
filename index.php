@@ -1,10 +1,10 @@
 <!Doctype html>
 <html>
 <head><center>
-    <h2 style="font-family:georgia; color:blue;">Log in </h2>
-      body{
-    background-color:violet;
-    }
+    <style type="text/css">
+    <h2 style="font-family:georgia; color:pink;">Log in </h2>
+      body{background-color:violet; }
+    </style>
 <title> Log in </title>
     </center>
 </head>
