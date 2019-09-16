@@ -3,11 +3,11 @@
 <head><center>
  
     <h2 style="font-family:georgia; color:pink;">Log in </h2>
-    
+     body {background-color: coral;}
 <title> Log in </title>
     </center>
 </head>
- body {background-color: coral;}
+
 <body ><center
 <hr>
 <label for="Username"><b>Username</b></label>
